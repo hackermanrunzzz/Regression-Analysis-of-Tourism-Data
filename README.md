@@ -19,6 +19,14 @@ This repository contains a comprehensive analysis of factors influencing **GDP**
 
 ---
 
+## **Future Scope**
+🌟 Incorporate additional machine learning models for comparative analysis.
+🌟 Explore non-linear relationships using models like Random Forest, Gradient Boosting, or Neural Networks.
+🌟 Expand the dataset to include more predictors (e.g., employment rates, government spending) and time periods.
+🌟 Integrate interactive dashboards for better visualization and stakeholder reporting.
+
+---
+
 ## **Requirements**
 - **Python**: 3.7+
 - **Libraries**:
