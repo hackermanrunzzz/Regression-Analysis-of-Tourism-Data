@@ -33,4 +33,4 @@ This repository contains a comprehensive analysis of factors influencing **GDP**
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/gdp_regression_analysis.git
+   git clone https://github.com/hackermanrunzzz/gdp_regression_analysis.git
