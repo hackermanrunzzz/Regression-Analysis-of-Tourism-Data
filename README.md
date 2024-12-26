@@ -6,23 +6,31 @@ This repository contains a comprehensive analysis of factors influencing **GDP**
 
 ## **Key Features**
 - **Data Analysis**: Preprocessing and exploration of tourism-related predictors and GDP data.
+  
 - **Modeling**: Implementation of **Ordinary Least Squares (OLS)** regression with interaction terms.
+  
 - **Visualization**: Graphical representation of regression results and interaction effects.
+  
 - **Refinement**: Comparison of models to identify the best-fit model using adjusted R-squared, significance testing, and residual analysis.
 
 ---
 
 ## **Project Highlights**
 ✅ Regression diagnostics and multicollinearity checks.  
-✅ Visualization of relationships between GDP and predictors using best-fit lines and confidence intervals.  
+
+✅ Visualization of relationships between GDP and predictors using best-fit lines and confidence intervals. 
+
 ✅ Suggests and evaluates refined models for improved interpretability and performance.  
 
 ---
 
 ## **Future Scope**
 🌟 Incorporate additional machine learning models for comparative analysis.
+
 🌟 Explore non-linear relationships using models like Random Forest, Gradient Boosting, or Neural Networks.
+
 🌟 Expand the dataset to include more predictors (e.g., employment rates, government spending) and time periods.
+
 🌟 Integrate interactive dashboards for better visualization and stakeholder reporting.
 
 ---
